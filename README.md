@@ -12,3 +12,4 @@ The Couse had focus on Python and R, but I preferred to write only a repo with P
 ## Index
  - <a href="https://github.com/janpeter123/MachineLearning/tree/main/Data%20Preprocessing"> Data Preprocessing </a>
  - <a href="https://github.com/janpeter123/MachineLearning/tree/main/Regression"> Regression </a>
+ - <a href="https://github.com/janpeter123/MachineLearning/tree/main/Classification"> Classification </a>
